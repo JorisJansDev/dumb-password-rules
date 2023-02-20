@@ -20,7 +20,7 @@ _Note:_ If you found your way here and don't know what GitHub is or how to work 
 - A link to the page with the offending rule.
 - A screenshot of the rule.
 - A written description of the rule.
-
+- crazyyyy random comment
 You can see what some of the other rules look like [https://dumbpasswordrules.com](https://dumbpasswordrules.com).
 
 ### Code
